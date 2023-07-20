@@ -1,3 +1,4 @@
+![Max Vasin Limsukhawat](https://bafybeiehl25dod35usi72dkaf2vmmswxiicborchq22shsqafe727nxvw4.ipfs.nftstorage.link/max-cover.png)
 # 💫 About Me:
 Max is an entrepreneurial developer with over 8 years of experience in web development, including web3 and smart contract development. With a creative mind and a passion for thinking outside the box, Max is enthusiastic about solving problems and building things that are meaningful and impact the world.<br>
 
