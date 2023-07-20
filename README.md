@@ -2,8 +2,7 @@
 Max is an entrepreneurial developer with over 8 years of experience in web development, including web3 and smart contract development. With a creative mind and a passion for thinking outside the box, Max is enthusiastic about solving problems and building things that are meaningful and impact the world.<br>
 
 ## 🌐 Website:
-[maxlim.xyz]([https://linkedin.com/in/https://www.linkedin.com/in/maxlimsukhawat/](https://www.maxlim.xyz/))
-
+[maxlim.xyz](https://maxlim.xyz)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maxlimsukhawat/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/maxmillions_eth) 
