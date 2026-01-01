@@ -1,4 +1,4 @@
-![Max Vasin Limsukhawat](https://bafybeiehl25dod35usi72dkaf2vmmswxiicborchq22shsqafe727nxvw4.ipfs.nftstorage.link/max-cover.png)
+![Max Vasin Limsukhawat](https://maxlim.xyz/images/max-cover.png)
 # 💫 About Me:
 Max is an entrepreneurial developer with extensive web3 expertise, driving mainstream blockchain adoption
 through innovative solutions and creative problem-solving.<br>
